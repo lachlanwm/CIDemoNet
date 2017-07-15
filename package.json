@@ -1,0 +1,9 @@
+{
+  "name": "cidemo-net",
+  "version": "0.0.0",
+  "description": "CIDemoNet",
+  "main": "server.js",
+  "author": {
+    "name": "lachlan"
+  }
+}
