@@ -1,9 +1,25 @@
 {
   "name": "cidemo-net",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "CIDemoNet",
   "main": "server.js",
-  "author": {
-    "name": "lachlan"
-  }
+  "author": "lachlan",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lachlanwm/CIDemoNet.git"
+  },
+  "keywords": [
+    "cicd",
+    "network"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lachlanwm/CIDemoNet/issues"
+  },
+  "homepage": "https://github.com/lachlanwm/CIDemoNet#readme"
 }
