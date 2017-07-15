@@ -7,7 +7,9 @@
   "scripts": {
     "start": "node server.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "mocha": "^3.4.2"
+  },
   "devDependencies": {},
   "repository": {
     "type": "git",
